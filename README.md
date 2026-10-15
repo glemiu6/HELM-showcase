@@ -23,13 +23,6 @@ Developed at **LASIGE, Faculty of Sciences, University of Lisbon**.
 
 ---
 
-## Poster
-
-<p align="center">
-  <img src="assets/helm_poster.jpg" alt="HELM Research Poster" width="850"/>
-</p>
-
----
 
 ## The Problem
 
